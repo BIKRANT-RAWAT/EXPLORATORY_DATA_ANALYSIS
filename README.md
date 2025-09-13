@@ -53,7 +53,7 @@
   <h2>✨ Aesthetic Overview</h2>
   <pre style="background:#272822; color:#f8f8f2; padding:15px; border-radius:8px; overflow:auto;">
 📂 EXPLORATORY_DATA_ANALYSIS/
- ┣ 
+ ┣ EDA_Algerian_forest_fire_dataset/
  ┗ 📜 README.md
   </pre>
   <p>Every module is a <strong>self-contained practice exercise</strong> contributing to a stronger understanding of EDA.</p>
