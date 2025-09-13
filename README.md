@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>EDA Practice Repository</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9fafc; color: #333; padding: 20px;">
 
-  <h1 style="text-align:center;">📊 Exploratory Data Analysis (EDA) – Practice Repository</h1>
+  <h1 style="text-align:center;">📊 Exploratory Data Analysis (EDA) – My Practice Repository</h1>
 
   <p>Welcome to this repository! 🚀<br>
-  All the modules and scripts present here are created <strong>only for practice purposes</strong> as part of learning and improving skills in <strong>Exploratory Data Analysis (EDA)</strong>.
+  All the modules and scripts present here are created <strong>only for practice purposes</strong> as part of learning and improving skills in <strong>Exploratory Data Analysis (EDA)</strong>. My learning have various sources and their due credit it given in the EDA itself.
   </p>
 
   <hr>
@@ -53,21 +52,18 @@
 
   <h2>✨ Aesthetic Overview</h2>
   <pre style="background:#272822; color:#f8f8f2; padding:15px; border-radius:8px; overflow:auto;">
-📂 eda-practice/
- ┣ 📜 module1_data_cleaning.py
- ┣ 📜 module2_visualization.py
- ┣ 📜 module3_statistics.ipynb
- ┣ 📜 ...
+📂 EXPLORATORY_DATA_ANALYSIS/
+ ┣ 
  ┗ 📜 README.md
   </pre>
   <p>Every module is a <strong>self-contained practice exercise</strong> contributing to a stronger understanding of EDA.</p>
 
   <hr>
 
-  <h2>💡 Final Note</h2>
+  <h2>💡 Conclusion</h2>
   <p>
     This repository is a <strong>learning space</strong> – not a polished product.<br>
-    Feel free to explore, experiment, and expand upon the exercises here. 🚀<br>
+    Feel free to explore, experiment, and expand upon the exercises here. 🚀 Open for any feedback.<br>
     <strong>Happy Analyzing! 🔥</strong>
   </p>
 
